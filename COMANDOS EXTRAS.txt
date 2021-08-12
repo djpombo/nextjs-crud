@@ -1,0 +1,4 @@
+comandos extras:
+instalar o typescript:
+
+npm install --save-dev @types/react typescript

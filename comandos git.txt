@@ -1,0 +1,14 @@
+criar e setar o repositorio no vs code
+
+1º passo - na pagina do gthub crie o repositorio de destino e copie o link
+
+no VsCode, clique no branch e em iniciar repositório (o mesmo q usar o comando
+git init
+
+2º passo no terminal(vs code) usar o seguinte comando:
+
+git remote add origin "link do repositorio"
+
+3º passo, no icone do "check" é o commit add.. click nele e escreva a msg de commit
+
+4º passo: na barra infrior no icon da nuvem clique nele para publicar
