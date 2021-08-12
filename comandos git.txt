@@ -12,3 +12,11 @@ git remote add origin "link do repositorio"
 3º passo, no icone do "check" é o commit add.. click nele e escreva a msg de commit
 
 4º passo: na barra infrior no icon da nuvem clique nele para publicar
+
+
+DEPLOY NO NETLIFY VIA CLI
+
+depois do build, na pasta do projeto
+
+ntl init
+
